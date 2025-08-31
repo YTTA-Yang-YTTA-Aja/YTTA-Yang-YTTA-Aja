@@ -2,7 +2,7 @@
 <!-- Typing Text -->
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5E00&center=true&vCenter=true&width=600&lines=Hi%2C+We+are+APP+Developer;Laravel;JavaScript;Flutter;Kotlin" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5E00&center=true&vCenter=true&width=600&lines=Hi%2C+We+are+APP+Developer;Laravel;JavaScript/react;Flutter;Kotlin" alt="Typing SVG" />
   </a>
 </p>
 
